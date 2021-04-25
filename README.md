@@ -22,6 +22,8 @@ Coromon是荷兰游戏开发商TRAGsoft（即“Two Ridiculously Ambitious Guys�
 ![image](https://user-images.githubusercontent.com/54838166/115985150-14c8ee00-a5dd-11eb-8c94-12013c9e57e6.png)
 
 但是，尽管Coromon与Pokémon游戏在美学和游戏玩法上都十分相似，但两者之间却存在差异。 Pouwels表示，TRAGsoft“已经仔细研究了Pokémon一路走来所做的每个决定，并质疑了各个方面的设计。”质疑转化为为原有世界观增加的新世界观，同时Coromon引入了难度修改系统，并使用了透明的怪兽属性分配，多阶段的Boss战役以及新的故事。在制作Coromon的过程中，TRAGsoft在研究Pokémon的战斗过程时非常谨慎。“在战斗中有许多设定互影响，并且在处理结算事物的顺序方面有特定的规则。 分析了《Pokémon》如何让玩家获得充满挑战性，高回馈感和有趣的游戏体验，Pouwels说。 “这导致我们构建了一个非常灵活的核心玩法方案，可以通过各种规则进行扩展，从而可以轻松地插入新机制，并使自己在Pokémon类游戏中脱颖而出。”他说：“旧的规则并没有真正阻碍创意的发展，因为这些规则定义了Pokémon独一无二的游戏感觉。” “但是规则可以建立在新的有趣的转折之上，例如我们的技能组类型和耐力系统，甚至我们可以包括非Coromon类型，例如模拟养成。”
+
+
 进化
 Temtem，Monster Sanctuary和Coromon都采用了神奇宝贝的战斗机制的各个方面。 这些游戏中的每一个都是Pokémon核心机制有灵活改良的示例，既提供了熟悉感，又引入了新的想法。 monster-taming的RPG游戏类型正变得比Pokémon游戏本身更大。
 
