@@ -14,4 +14,4 @@ Monster Sanctuary提供的战斗方法类似于更复杂的JRPG中的战斗方�
 扭曲规则
 Coromon是荷兰游戏开发商TRAGsoft（即“Two Ridiculously Ambitious Guys”）的一款主打精美外观的怪物养成游戏。预计将于今年晚些时候发布，Coromon受到的Pokémon的影响要明显得多，其怀旧的2D艺术和动画可以追溯到Game Boy Advance版本时的经典Pokémon游戏。TRAGsoft首席执行官兼Coromon主程序员Jochem Pouwels指出：“世界观建设，战斗节奏和发现有趣的新生物都是使Pokémon长久不衰的部分原因。”
 ![image](https://user-images.githubusercontent.com/54838166/115985150-14c8ee00-a5dd-11eb-8c94-12013c9e57e6.png)
-但是，尽管Coromon与Pokémon游戏在美学和游戏玩法上都十分相似，但两者之间却存在差异。 Pouwels表示，TRAGsoft“已经仔细研究了神奇宝贝一路走来所做的每个决定，并质疑了各个方面。”质疑转化为为原有世界观增加的新世界观，同时Coromon引入了难度修改系统，并使用了透明的怪兽属性分配，多阶段的Boss战役以及新的故事。
+但是，尽管Coromon与Pokémon游戏在美学和游戏玩法上都十分相似，但两者之间却存在差异。 Pouwels表示，TRAGsoft“已经仔细研究了神奇宝贝一路走来所做的每个决定，并质疑了各个方面。”质疑转化为为原有世界观增加的新世界观，同时Coromon引入了难度修改系统，并使用了透明的怪兽属性分配，多阶段的Boss战役以及新的故事。在制作Coromon的过程中，TRAGsoft在研究神奇宝贝的战斗过程时非常谨慎。“在战斗中有许多设定互影响，并且在处理结算事物的顺序方面有特定的规则。 分析了《Pokémon》如何让玩家获得充满挑战性，高回馈感和有趣的游戏体验，Pouwels说。 “这导致我们构建了一个非常灵活的核心玩法方案，可以通过各种规则进行扩展，从而可以轻松地插入新机制，并使自己在宝可梦类游戏中脱颖而出。”
