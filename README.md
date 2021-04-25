@@ -25,6 +25,8 @@ Coromon是荷兰游戏开发商TRAGsoft（即“Two Ridiculously Ambitious Guys�
 
 
 进化
+
+
 Temtem，Monster Sanctuary和Coromon都采用了神奇宝贝的战斗机制的各个方面。 这些游戏中的每一个都是Pokémon核心机制有灵活改良的示例，既提供了熟悉感，又引入了新的想法。 monster-taming的RPG游戏类型正变得比Pokémon游戏本身更大。
 
 
